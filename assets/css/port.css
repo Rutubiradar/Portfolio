@@ -1,0 +1,16 @@
+.list-group-item{
+    background-color: transparent;
+    border: transparent;
+    color:white;
+}
+.list-group {
+    list-style-type: disc !important;
+    padding-left: 20px; 
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.fa-circle-small{color:white;}
